@@ -1,7 +1,7 @@
 # Hey!! Great to see you here!  :-) <img src="/src/wave.gif" width="30px" height="30px">
 
 
-* 🧑🏻‍💻 Tech enthusiast, and Developer. 
+* 🧑🏻‍💻 Tech Explorer, and Developer. 
 
 * 💡 Always open to collaborating on projects and innovative ideas. 
 
@@ -71,7 +71,7 @@ When I am not coding, you'll find me in the ground playing cricket. Find out mor
 
 
 
-<!--![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Asmit2952&hide_border=true&theme=redical)-->
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Gulshan7777&hide_border=true&theme=redical)
 
 ---
 
