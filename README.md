@@ -81,7 +81,7 @@ When I am not coding, you'll find me in the ground playing cricket. Find out mor
 
 
 
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Gulshan7777&hide_border=true&theme=redical)
+![Gulshan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Gulshan7777&hide_border=true&theme=redical)
 
 ---
 
