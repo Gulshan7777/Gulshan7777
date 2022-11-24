@@ -2,8 +2,10 @@
 ![WebDev](http://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 # Hey!! Great to see you here!  :-) 
 
-### <div>An Aspiring Full Stack Web Developer who is passionate about making open-source more accessible, creating technology more accessible, and building community.
-</div> 
+### I am Gulshan Sharma 
+
+An Aspiring Full Stack Web Developer who is passionate about making open-source more accessible, creating technology more accessible, and building community.
+Got the interest in coding through my friend from then, I never look back. Worked on front-end and back-end projects. my motivation is the results
 
 
 * 🧑🏻‍💻 Tech Explorer, and Developer. 
@@ -11,6 +13,10 @@
 * 💡 Always open to collaborating on projects and innovative ideas. 
 
 * 💻 Learning [React](https://reactjs.org/). 
+
+* 🖼 All my projects are listed [Here](https://gulshansharma.netlify.app/)
+
+* 📁Always available to code.
 
 
 When I am not coding, you'll find me in the ground playing cricket. Find out more about me & feel free to connect with me here:
