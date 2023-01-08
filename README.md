@@ -84,8 +84,5 @@ When I am not coding, you'll find me in the ground playing cricket. Find out mor
 [![Gulshan's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Gulshan7777&theme=redical)](https://github.com/Gulshan7777/github-readme-activity-graph)
 <!-- ![Gulshan's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Gulshan7777&hide_border=true&theme=redical) -->
 
----
 
-<p align="center">
-   <img src="https://github.com/Asmit2952/Asmit2952/blob/output/github-contribution-grid-snake.svg" alt="snake">
-</p>
+
